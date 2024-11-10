@@ -1,5 +1,7 @@
 # Tutorials
 
+The important thing about these guides is the practical part, being able to only find key concepts and letting each one delve deeper into the topics by searching on the Internet or references that we have.
+
 ## References
 
 - The Linux Terminal: What Developers and Cloud Users Need to Know
