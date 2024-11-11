@@ -4,5 +4,5 @@ The important thing about these guides is the practical part, being able to only
 
 ## References
 
-- The Linux Terminal: What Developers and Cloud Users Need to Know
+- The Linux Terminal Everywhere: WSL, containers, VScode and the Cloud
 - To the grocery store with Git - Building code as a team is key.
