@@ -1,4 +1,4 @@
-[#](#) I see you everywhere: Linux let me meet you
+# I see you everywhere: Linux let me meet you
 
 ## Día 1: Introducción práctica a Linux
 - [Estructura del sistema de archivos](./FHS.md)
