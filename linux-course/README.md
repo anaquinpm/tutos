@@ -2,8 +2,8 @@
 
 ## Día 1: Introducción práctica a Linux
 - [Estructura del sistema de archivos](./FHS.md)
-- Uso básico de la terminal
-- Permisos y usuarios
+- [Uso básico de la terminal](./terminal.md)
+- [Permisos y usuarios](./access.md)
 
 ## Día 2: Conexión y gestión básica en servidores Linux
 
