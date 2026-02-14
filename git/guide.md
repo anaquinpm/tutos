@@ -118,7 +118,7 @@ git status
 git stash list
 
 # 5) Opcional: inspeccionamos qué guardamos
-git stash show stash@{0}
+git stash shotash@{0}
 
 
 ## Creamos un nueva rama para frutas (con branch o checkout -b). Cambiar de rama en rama
